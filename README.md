@@ -1,6 +1,7 @@
-This simulates a parking garage. The goal is to implment the SpaceAssigner class.
+<b>This simulates a parking garage. The goal is to implment the SpaceAssigner class.</b>
 
-The following rules apply:
+<b>The following rules apply:</b>
+
 1. Implement as few interfaces as possible.
 
 2. A parking space as a desirability as well as a indication if it is taken or not.
